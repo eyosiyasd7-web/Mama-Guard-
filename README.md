@@ -1,2 +1,33 @@
-# Mama-Guard-
-AI + IoT system for maternal healthcare in rural Africa
+# Mama Guard AI + IoT System
+
+## 🌍 Problem
+Many pregnant women in rural areas lack access to timely healthcare services.
+
+## 💡 Solution
+Mama Guard is a smart CareBox system that monitors:
+- Blood Pressure
+- Heart Rate
+- Temperature
+
+The system sends data to nearby hospitals for remote monitoring and early intervention.
+
+## ⚙️ How It Works
+- Sensors collect health data
+- Data is processed and transmitted
+- Doctors review and respond remotely
+
+## 🧠 Future AI Integration
+- Risk prediction using machine learning
+- Smart alerts for abnormal conditions
+
+## 🛠 Tech Stack
+- Arduino
+- Sensors
+- Python (AI integration concept)
+- IoT communication
+
+## 🎯 Goal
+To improve maternal healthcare in rural Africa using AI and IoT.
+
+## 👤 Author
+Eyosiyas Simachew Dagnew
