@@ -28,6 +28,13 @@ The system sends data to nearby hospitals for remote monitoring and early interv
 
 ## 🎯 Goal
 To improve maternal healthcare in rural Africa using AI and IoT.
+## 🚀 Future Improvements
+- Add AI model to predict pregnancy risks
+- Mobile app integration for easier access
+- SMS alerts for rural areas without internet
+
+## 📊 Impact
+This project aims to reduce maternal health risks and improve access to healthcare in underserved communities.
 
 ## 👤 Author
 Eyosiyas Simachew Dagnew
