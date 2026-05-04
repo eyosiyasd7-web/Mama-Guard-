@@ -1,0 +1,7 @@
+## ▶️ How to Run (Demo)
+
+1. Install Python
+2. Run the script:
+
+```bash
+python risk_detection.py
