@@ -1,3 +1,4 @@
+<img width="1280" height="853" alt="1000053910" src="https://github.com/user-attachments/assets/1d07e27a-b199-4432-a355-d1f2072b9642" />
 # Mama Guard AI + IoT System
 
 ## 🌍 Problem
